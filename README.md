@@ -1,7 +1,7 @@
 ## I'm Suky 👋
 
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=suky637&show_icons=true&theme=transparent"/>
-<img alt="my lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
+<img alt="my lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suky637"/>
 
 <!--
 **suky637/suky637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
