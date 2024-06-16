@@ -6,7 +6,9 @@
 - 🔭 I’m currently working on Rush
 - 🌱 I’m currently learning Java Plugin Development
 - 👯 I’m looking to collaborate on Rush
-<!--- 🤔 I’m looking for help with -->
 - 💬 Ask me about features
-<!--- 📫 How to reach me: -->
 - 😄 Pronouns: he/him
+<!--- 🤔 I’m looking for help with -->
+
+<!--- 📫 How to reach me: -->
+
